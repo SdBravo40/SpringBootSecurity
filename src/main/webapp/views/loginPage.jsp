@@ -18,7 +18,12 @@
 </head>
 <body>
    <div class="container pt-2 text-center"> 
-       <h5>Welcome to Login Page!</h5>
+       <h5>Welcome to Login Page! </h5>
+       
+   </div>
+   
+   <div class="container pt-2 text-center"> 
+       <a href="/signup" class="btn btn-primary">Signup</a>
    </div>
 </body>
 </html>
